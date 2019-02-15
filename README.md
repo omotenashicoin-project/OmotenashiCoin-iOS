@@ -1,2 +1,2 @@
-# Omotenashicoin-iOS
-Omotenashicoin mobile wallet  for iOS
+# OmotenashiCoin-iOS
+OmotenashiCoin mobile wallet  for iOS
